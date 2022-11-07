@@ -6,7 +6,9 @@ public class Ejercicio06 {
 
 	public static void main(String[] args) {
 		Scanner teclado = new Scanner(System.in);
-		
+	
+//Realiza un programa que calcule la media de tres notas que se solicitarán al usuario.
+
 		double nota1;
 		double nota2;
 		double nota3;
